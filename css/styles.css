@@ -1,0 +1,176 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.html-image {
+  position: absolute;
+  width: 100px;
+  top: 400px;
+  left: 300px;
+}
+
+.css-image {
+  position: absolute;
+  width: 100px;
+  top: 300px;
+  left: 200px;
+}
+
+.js-image {
+  position: absolute;
+  width: 100px;
+  top: 200px;
+  left: 100px;
+}
+
+.bootstrap-image {
+  position: absolute;
+  width: 100px;
+  top: 400px;
+  right: 300px;
+}
+
+.node-image {
+  position: absolute;
+  width: 100px;
+  top: 300px;
+  right: 200px;
+}
+
+.jquery-image {
+  position: absolute;
+  width: 100px;
+  top: 200px;
+  right: 100px;
+}
+
+h1, h2, .developer {
+  color: #1687a7;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+h2 {
+  fonmt-size: 2rem;
+}
+
+.hero-image {
+  width: 400px;
+  margin: 50px auto 0;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 50px;
+  text-align: center;
+  width: 100%;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.middle-container .profile {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.middle-container .profile img {
+  width: 25%;
+  margin: 150px 0px 0px;
+}
+
+hr {
+  margin: 50px auto;
+  width: 5%;
+  border-top: 10px dotted #d3e0ea;
+}
+
+.bottom-container {
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.html-logo {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.css-logo {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.js-logo {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+
+.contact-me {
+  width: 50%;
+  height: 200px;
+  margin: 0 auto 50px;
+  padding: 20px 0;
+}
+
+.contact-me p {
+  margin:  0 auto 40px;
+}
+
+.btn {
+  background-color: #1687a7;
+  padding: 10px 20px;
+  color: #EAF6F6;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border: 1px solid #1687a7;
+  color: #1687a7;
+}
+
+.social-media-container {
+  text-align: center;
+  background-color: #1687a7;
+  padding: 20px 0;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: #00587a;
+  padding: 0 10px;
+}
+
+.social-media-container p {
+  padding-top: 10px;
+  font-size: 0.9rem;
+  color: #fff;
+}
